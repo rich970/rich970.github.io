@@ -17,3 +17,9 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 ## License
 
 [See the license file.](./LICENSE.md)
+
+!Notes for future Rich!
+To run this site locally:
+- Using terminal in the root directory of the site, run: bundle exec jekyll serve
+- Open the site in a browser at http://localhost:4000  
+- Further details can be found in the documentation (https://nicolas-van.github.io/bootstrap-4-github-pages/)
