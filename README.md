@@ -23,3 +23,9 @@ To run this site locally:
 - Using terminal in the root directory of the site, run: bundle exec jekyll serve
 - Open the site in a browser at http://localhost:4000  
 - Further details can be found in the documentation (https://nicolas-van.github.io/bootstrap-4-github-pages/)
+
+!Useful template examples!
+https://github.com/RoseLeBlood/roseleblood.github.io
+https://github.com/BorisLouis/BorisLouis.github.io
+https://github.com/nicolas-van/nicolas-van.github.io
+https://nicolas-van.github.io/bootstrap-4-github-pages/

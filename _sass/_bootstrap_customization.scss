@@ -10,6 +10,7 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 @import url($web-font-path);
 
+
 // Navbar ======================================================================
 
 .navbar {
@@ -17,7 +18,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 }
 
 .bg-dark {
-  background-color: $secondary !important;
+  background-color: $gray-800 !important;
 }
 
 .border-dark {
