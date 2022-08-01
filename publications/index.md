@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post
+title: Publications
 --- 
 
-test test test
+Nothing here yet... publications to be added shortly. 
