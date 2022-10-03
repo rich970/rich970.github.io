@@ -3,10 +3,10 @@ title: Maternity care across England
 image: /assets/20221003-imgs/combined-maps.png
 ---  
 
-On the 21st of September the BBC published an article analysis the latest Care Quality
+On the 21st of September the BBC published an article with analysis of the latest Care Quality
 Commission (CQC) results regarding maternity care. You can find it [here](https://www.bbc.co.uk/news/health-62569344).
 
-As an new father to be, it made for some rather uneasy reading. The article states that 
+As a new father to be, it made for some rather uneasy reading. The article states that 
 more than half of maternity units in England fail consistently to meet safety standards. 
 
 The CQC data can be easily downloaded from their website and I was curious as to the 
@@ -18,9 +18,11 @@ is included in the figure.
 
 The general blueish hue across all CQC rating metrics (except "Responsiveness" which scores
 generally higher across the board) reflects that the average "Overall" rating for England
-based on the scores since 2020 is between "Requires Improvement" and "Good". 
+based on the scores since 2020 is between "Requires Improvement" and "Good". This is broadly
+what was found in the BBC article too. There doesn't seem to be an obvious North-South divide 
+or other disparity, at least at a regional level.
 
-It's important to add that personally I don't find these scores are a reflection of the staff,
+I want to add that personally I don't find these scores are a reflection of the staff,
 all of which have so far been fantastic during the hospital and midwife appointments myself and my
 wife have attended. 
 
