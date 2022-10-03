@@ -6,7 +6,7 @@ image: /assets/20221003-imgs/combined-maps.png
 On the 21st of September the BBC published an article with analysis of the latest Care Quality
 Commission (CQC) results regarding maternity care. You can find it [here](https://www.bbc.co.uk/news/health-62569344).
 
-The article states that more than half of maternity units in England fail consistently to meet safety standards. 
+The article states that more than half of maternity units in England fail consistently to meet safety standards and makes for quite uneasy reading.  
 
 The CQC data can be easily downloaded from their website and I was curious as to the 
 regional distribution of the most recent scores (since 2020). So, I created the following 
