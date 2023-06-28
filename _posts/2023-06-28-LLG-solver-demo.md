@@ -13,7 +13,7 @@ Run the simulation and the magnetic moment will precess around the external magn
 
 This illustrates the role that magentic damping plays when reversing the magnetisation direction in a magnet. The higher the damping, the quicker it aligns along the new direction. Since switch nanomagnetic in hard disk drives is critical to storing and writing data, many researchers are trying to better understand how damping can be used to make this process as fast and as efficient as possible. 
 
-The app is hosted on the Streamlit community cloud and I've simply embedded it below as an iframe in this webpage, but you can view it directly at its hosting URL [here](https://llgdemo.streamlit.app/).
+The app is hosted on the Streamlit community cloud and I've simply embedded it below as an iframe in this webpage. Press the tab on the left to view the sliders to adjust the simulation parameters. However, it's best viewed directly on the hosting url [here](https://llgdemo.streamlit.app/). The app will go to sleep if it hasn't been activated for a while, but it can be restarted by visiting it directly at the hosting url. 
 
 The python code for the app is stored in my github repo [here](https://github.com/rich970/LLG-app). 
 
@@ -23,7 +23,7 @@ The python code for the app is stored in my github repo [here](https://github.co
 		marginheight="1000"
 		marginwidth="500"
 		width="100%"
-		height="1080"
+		height="500"
 		scrolling="no">
 </iframe>
 
