@@ -13,9 +13,9 @@ public, a place to track my projects and motivate me to maintain
 progress on them, with the added bonus that others (may!) find it a
 useful resource or a source of inspiration.
 
-Since 2022 I have been working as a Data Scientist for Morrisons
+I work as a Water Resource Modeller for the Environment Agency, creating insight into how we can safegaurd our water resources in the face of a changing climate and population growth. Prior to this, I worked as a Data Scientist for Morrisons
 supermarkets investigating sales and logistics within the supply chain.
-Prior to this I was a Material Scientist, having completed a PhD in Physics
+And before all that... I was a Material Scientist, having completed a PhD in Physics
 at Durham University. After this I was fortunate enough to work in Sweden
 for three years as post doctoral researcher.
 
