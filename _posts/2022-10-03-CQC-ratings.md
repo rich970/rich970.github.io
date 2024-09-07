@@ -1,6 +1,6 @@
 ---
 title: Mapping maternity care scores across England using geopandas
-image: /assets/20221003-imgs/combined-maps.png
+image: /assets/2022/combined-maps.png
 ---  
 
 On the 21st of September the BBC published an article with analysis of the latest Care Quality Commission (CQC) results regarding maternity care. You can find it [here](https://www.bbc.co.uk/news/health-62569344).
@@ -9,7 +9,7 @@ The article states that more than half of maternity units in England fail consis
 
 The CQC data can be easily downloaded from their website and I was curious as to the regional distribution of the most recent scores (since 2020). So, I created the following figure using the [geopandas](https://geopandas.org/en/stable/) package. Note that restricting the data to assessments since 2020 results in an average of 8 scores per region to produce the aggregated score, but caution should be taken with the North East metric for which there were just 2 data points available. Futher information on how the data was processed prior to plotting are included in the figure.
 
-![png](/assets/20221003-imgs/combined-maps.png)
+![png](/assets/2022/combined-maps.png)
 
 I don't want to delve too deep into the meaning of these results. I'm not an expert in this field and I imagine that what the CQC does in quantifying exactly what is 'good care' is an extremely complex task. 
 

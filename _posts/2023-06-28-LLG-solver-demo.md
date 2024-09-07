@@ -1,6 +1,6 @@
 ---
 title: Numerically solving the Landau–Lifshitz–Gilbert equation. 
-image: /assets/20230628-imgs/llg-solver-screenshot.png
+image: /assets/2023/llg-solver-screenshot.png
 ---  
 
 The Landau–Lifshitz–Gilbert (LLG) equation is ubiquitous in the field of magnetism. It describes how a magnetic moment precesses around an external magnetic field, and under the influence of damping, gradually orientes itself alongside the external magnetic field. 

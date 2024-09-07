@@ -1,6 +1,6 @@
 ---
 title: How has the COVID-19 pandemic impacted academic output?
-image: /assets/20220726-imgs/Academic-publication-by-year-v3_prod_23_0.png
+image: /assets/2022/Academic-publication-by-year-v3_prod_23_0.png
 ---  
 
 I’ve been interested to see if the pandemic has had an effect on the number of published research articles. My University was quick to close down when COVID hit the UK, and for those reliant on laboratory work, research quickly ground to a halt. Conversely, we were spending more time at home, with less distractions in the form of shiny equipment to tinker with. So perhaps, there was finally the time (and motivation) to finalise those articles that had been hanging for so long.

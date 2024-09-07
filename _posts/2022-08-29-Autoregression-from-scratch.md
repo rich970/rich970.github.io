@@ -1,6 +1,6 @@
 ---
 title: An autoregression model from scratch for forecasting the number of academic publications pre- and post- COVID-19 pandemic 
-image: /assets/20220829-imgs/Academic_publications_ARv2_21_1.png
+image: /assets/2022/Academic_publications_ARv2_21_1.png
 ---  
 
 Previously I showed that 2021 was a bumper year for academic publications, suggesting that the changes in working practices brought about by COVID-19 had caused an increase in publication rates. 
@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 import datetime as dt
 ```
 
-I saved the monthly publications data as a csv. You can download it from [here](https://github.com/rich970/rich970.github.io/blob/master/assets/20220726-imgs/pubs_by_year.csv).
+I saved the monthly publications data as a csv. You can download it from [here](https://github.com/rich970/rich970.github.io/blob/master/assets/2022/pubs_by_year.csv).
 
 
 ```python
@@ -67,7 +67,7 @@ plt.plot([uk_lockdown_date, uk_lockdown_date],[0, 500e3], '--r', label='First UK
 
 
 
-![png](/assets/20220829-imgs/Academic_publications_ARv2_7_1.png)
+![png](/assets/2022/Academic_publications_ARv2_7_1.png)
     
 
 
@@ -88,7 +88,7 @@ pd.plotting.lag_plot(df_pubs.n_publications, lag=24, ax=ax[3])
 
 
     
-![png](/assets/20220829-imgs/Academic_publications_ARv2_9_1.png)
+![png](/assets/2022/Academic_publications_ARv2_9_1.png)
     
 
 
@@ -214,7 +214,7 @@ plt.xlabel('Date')
 
 
     
-![png](/assets/20220829-imgs/Academic_publications_ARv2_15_1.png)
+![png](/assets/2022/Academic_publications_ARv2_15_1.png)
     
 
 
@@ -271,7 +271,7 @@ ax[1].legend()
 
 
     
-![png](/assets/20220829-imgs/Academic_publications_ARv2_21_1.png)
+![png](/assets/2022/Academic_publications_ARv2_21_1.png)
     
 
 

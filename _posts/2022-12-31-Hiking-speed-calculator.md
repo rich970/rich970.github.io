@@ -1,6 +1,6 @@
 ---
 title: An simple app built using streamlit to calculate hiking times for walks. 
-image: /assets/20221231-imgs/hiking-app-screenshot.png
+image: /assets/2022/hiking-app-screenshot.png
 ---  
 
 I've been keen to try out Streamlit, a python package for rapidly developing web applications without requiring knowledge of front end development. Streamlit's main focus is for deploying Machine Learning models, and I have to say, it makes really light work of developing simple web applications like the one I put together below. They provide well automated tools which make it a breeze to add user controls such as sliders and buttons.  
